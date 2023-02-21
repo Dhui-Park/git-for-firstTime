@@ -1,2 +1,0 @@
-Title: Git for firstTime.
-Subtitle: Hello World!
